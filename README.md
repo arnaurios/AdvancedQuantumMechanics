@@ -17,7 +17,7 @@ You can launch it from the Notebook above
 , or using the Binder link:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arnaurios/AdvancedQuantumMechanics/main?labpath=Scattering_Born_Yukawa.ipynb)
 
-## Scattering: partila waves
+## Scattering: partial waves
 This notebook provides some useful cases of scattering within the partial wave formalism. The S=0 attractive and repulsive wells are given, as well as the partial waves in the case of hard spheres.
 You can launch it from the Notebook above
 [Scattering_spherical.ipynb](Scattering_spherical.ipynb)
