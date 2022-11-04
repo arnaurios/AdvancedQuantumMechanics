@@ -3,7 +3,6 @@ dependencies:
   - jupyterlab=3
   - matplotlib
   - numpy
-  - math
   - scipy
   - tqdm
   - python=3
