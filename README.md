@@ -2,7 +2,7 @@
 
 These Jupyter Notebooks have been devised to provide some further insight into different sections of the course
 [Advanced Quantum Mechanics](http://grad.ub.edu/grad3/plae/AccesInformePDInfes?curs=2022&assig=574634&ens=MD70D&recurs=pladocent&n2=1&idioma=ENG) in the
-[Quantum Science and Technology Master's(https://quantummasterbarcelona.eu/)] program.
+[Quantum Science and Technology Master's](https://quantummasterbarcelona.eu/) program.
 
 ## Harmonic Oscillator: dynamics
 This notebook provides the time evolution of harmonic oscillator eigenstates over time, after an initial displacement in real or momentum space.
