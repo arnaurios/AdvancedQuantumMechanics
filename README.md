@@ -28,6 +28,6 @@ You can launch it from the Notebook above
 ## Scattering: hard spheres
 This notebook provides some useful cases of scattering within the partial wave formalism. The S=0 attractive and repulsive wells are discussed here.
 You can launch it from the Notebook above
-[Scattering_spherical.ipynb](Scattering_hard_spheres.ipynb)
+[Scattering_hard_spheres.ipynb](Scattering_hard_spheres.ipynb)
 , or using the Binder link:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arnaurios/AdvancedQuantumMechanics/main?labpath=Scattering_hard_spheres.ipynb)
